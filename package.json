@@ -1,0 +1,28 @@
+{
+  "name": "fullstophub-backend",
+  "version": "1.0.0",
+  "description": "An interactive and collaborative online platform",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sope-mosuro/fullstophub-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sope-mosuro/fullstophub-backend/issues"
+  },
+  "homepage": "https://github.com/sope-mosuro/fullstophub-backend#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.5.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
